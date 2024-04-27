@@ -10,7 +10,7 @@
     <li>🌱 I’m currently learning <strong>TypeScript, SQL with Data Warehouse</strong></li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/Hussain-Innovator?tab=repositories">GitHub</a></li>
     <li>📝 I regularly read Programming Documentation on <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a></li>
-    <li>💬 Ask me about <strong>C, Java, JavaScript, TypeScript</strong></li>
+    <li>💬 Ask me about <strong>C, Java, TypeScript</strong></li>
     <li>📫 How to reach me: <a href="mailto:hussainsamdani5686@gmail.com">hussainsamdani5686@gmail.com</a></li>
     <li>⚡ Fun fact: I am Innovator</li>
   </ul>
