@@ -1,7 +1,7 @@
 ![logo](https://github.com/Hussain-Innovator/Hussain-Innovator/blob/main/Github_banner--01.png)
   
   <h1 align="center">Hi 👋, I'm Hussain</h1>
-  <h3 align="center">A passionate Software Engineering Student from Gilgit Baltistan</h3>
+  <h3 align="center">A passionate Software Engineer</h3>
 
 <img align="right" alt="coding" width="365" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
